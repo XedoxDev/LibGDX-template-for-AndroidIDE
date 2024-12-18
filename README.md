@@ -11,7 +11,6 @@ At tested use AndroidIDE v2.7.1-beta
 You can, on one's own make gdx project, go to releases, last release, and download gdx-setup.jar
 in command line (in project), enter the command:
 ```bash
-adb shell chmod +x /sdcard/AndroidIDEProjects/MyGame/gradlew
 java -jar gdx-setup.jar --dir /sdcard/AndroidIDEProjects/MyGame --name Game --package your.package --mainClass Main --sdkLocation ~/android-sdk --excludeModules ios; html; desktop
 ```
 
