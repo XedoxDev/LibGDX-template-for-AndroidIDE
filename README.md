@@ -1,0 +1,3 @@
+# LibGDX
+
+LibGDX AndroidIDE template.

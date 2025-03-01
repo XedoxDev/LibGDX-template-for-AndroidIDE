@@ -1,0 +1,3 @@
+rootProject.name = "LibGDX template"
+
+include(":android", ":core", ":ios", ":html", ":desktop", ":legacy_desktop")

@@ -1,0 +1,9 @@
+/core/build
+/android/build
+/.gradle
+/build
+/.androidide
+/.idea
+/*.keystore
+/*.jks
+/.git
